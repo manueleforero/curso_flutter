@@ -16,6 +16,7 @@ void main() {
 
 int pb_rta;
 int viewbag;
+String prueba;
 
 class MyApp extends StatelessWidget {
   @override
